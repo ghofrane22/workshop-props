@@ -9,7 +9,7 @@ const PlayersList = () => {
       nationality: "Portuguese",
       jerseyNumber: 10,
       age: 33,
-      imageUrl: "player1.jpg",
+      imageUrl: "./players/player1.jpg",
     },
     {
       name: "mesi",
@@ -17,7 +17,7 @@ const PlayersList = () => {
       nationality: "argentin",
       jerseyNumber: 10,
       age: 33,
-      imageUrl: "player2.jpg",
+      imageUrl: "./players/player2.jpg",
     },
     {
       name: "naymar",
@@ -25,7 +25,7 @@ const PlayersList = () => {
       nationality: "Brésil",
       jerseyNumber: 10,
       age: 33,
-      imageUrl: "player3.jpg",
+      imageUrl: "./players/player3.jpg",
     },
   ];
   return (
